@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>ParseDataWithJs</title>
+</head>
+<body>
+  <div></div>
+<script>
+const file='test.csv';// the path of data file
+var data=[];
+fetch(file).then(response=>response.text())//get the whole content of file as text
+.then(text=>{
+  var allTextLines = text.split(/\r\n|\n/);//break whole text to rows
+  var lines = [];
+  for (var i=1; i<allTextLines.length; i++) {
+    var row = allTextLines[i].split(',');//break each rows to array
+    data.push( {
+      //define your own data as we do in d3 parse function
+        solving:+row[0],
+        category:row[1],
+        thing:row[2],
+        level:+row[3],
+        whom:row[4],
+        howlong:row[5]
+      })
+    };
+  dataready(data)
+})
+function dataready(data){
+  //dataloaded
+  console.table(data)
+}
+</script>
+</body>
+
+</html>
+<!-- http://mounirmesselmeni.github.io/2012/11/20/reading-csv-file-with-javascript-and-html5-file-api/ -->
