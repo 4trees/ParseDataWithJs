@@ -1,0 +1,65 @@
+solving id,category,thing,level,whom to talk,how long
+3,personal,am I wrong?,6,,forever!!
+3,Dear Data,eyeo,4,you,a little while
+3,Dear Data,website,3,you,a little while
+3,Dear Data,website,4,Boy friend,a little while
+3,personal,should I change?,7,friend;Boy friend,forever!!
+1,organizational stuff,other,4,,a little while
+1,work,design,6,,forever!!
+1,work,how to write,4,,not too much
+1,physical,eat more of xyz,3,,not too much
+1,physical,what to wear,4,,a little while
+1,physical,grab more beer,3,,not too much
+1,physical,what to wear,5,Boy friend,a little while
+1,organizational stuff,stay or leave,6,,a little while
+1,organizational stuff,Buy sthing or not,3,,not too much
+1,organizational stuff,Buy sthing or not,3,,not too much
+1,work,design,4,,a little while
+1,Dear Data,eyeo,5,you,a little while
+1,personal,am I wrong?,6,Boy friend,forever!!
+1,work,design,3,,not too much
+1,physical,grab more beer,3,Boy friend,not too much
+1,physical,eat more of xyz,3,,not too much
+1,Dear Data,postcard,6,,a little while
+1,organizational stuff,Buy sthing or not,3,,not too much
+1,work,how to write,5,,a little while
+1,physical,grab more beer,4,,a little while
+1,physical,eat more of xyz,3,,not too much
+1,personal,should I change?,6,friend,forever!!
+1,organizational stuff,Buy sthing or not,3,,not too much
+1,personal,am I terrible?,5,you,a little while
+1,physical,what to wear,4,,not too much
+1,organizational stuff,Buy sthing or not,3,,not too much
+1,Dear Data,postcard,5,,a little while
+1,organizational stuff,where to eat/drink,5,Boy friend,a little while
+1,physical,eat more of xyz,3,,not too much
+1,physical,pee now or later,3,,not too much
+1,physical,pee now or later,3,,not too much
+1,personal,am I wrong?,6,friend,forever!!
+1,work,work or hang out?,4,Boy friend,a little while
+1,organizational stuff,other,4,,a little while
+2,work,work or hang out?,6,,a little while
+2,work,work or hang out?,6,Boy friend,a little while
+2,work,design,5,,a little while
+2,work,organization,5,Boy friend,a little while
+2,work,organization,6,coworker,a little while
+2,work,design,5,,a little while
+2,Dear Data,eyeo,6,Boy friend;you,a little while
+2,Dear Data,Book,3,you,not too much
+2,Dear Data,Book,3,Boy friend;you,not too much
+2,personal,am I wrong?,7,,a little while
+2,organizational stuff,take a plane to Italy,6,Boy friend,a little while
+2,organizational stuff,take a plane to Italy,6,Boy friend,forever!!
+2,organizational stuff,take a plane to Italy,5,friend,a little while
+2,organizational stuff,take a plane to Italy,6,Mom,forever!!
+2,organizational stuff,Buy sthing or not,3,,not too much
+2,organizational stuff,take a plane to Italy,6,you,a little while
+2,organizational stuff,take a plane to Italy,6,Mom,a little while
+2,organizational stuff,Buy sthing or not,3,,not too much
+2,organizational stuff,Buy sthing or not,4,,not too much
+2,organizational stuff,Buy sthing or not,3,,not too much
+2,organizational stuff,stay or leave,4,Boy friend,a little while
+2,organizational stuff,where to eat/drink,5,Boy friend,a little while
+2,organizational stuff,where to eat/drink,3,Boy friend,a little while
+2,organizational stuff,ask to make it warmer,3,Boy friend,a little while
+2,organizational stuff,ask to make it warmer,3,Boy friend,a little while
